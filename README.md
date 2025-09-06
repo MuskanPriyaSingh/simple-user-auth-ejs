@@ -2,13 +2,9 @@
 
 A basic user authentication system built using **Node.js**, **Express**, **MongoDB**, and **EJS**. This project includes user registration, login, and profile page functionality with image upload using Multer and Cloudinary.
 
----
-
 ## 🚀 Live Demo
 
 🔗 [Click here to view the deployed project](https://simple-user-auth-ejs.onrender.com)
-
----
 
 ## ✨ Features
 
@@ -18,8 +14,6 @@ A basic user authentication system built using **Node.js**, **Express**, **Mongo
 - EJS templating
 - Image Upload (Multer + Cloudinary)
 - MongoDB (Mongoose)
-
----
 
 ## 💻 Tech Stack
 
